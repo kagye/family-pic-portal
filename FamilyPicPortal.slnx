@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FamilyPicPortal.Core/FamilyPicPortal.Core.csproj" />
+    <Project Path="src/FamilyPicPortal.Web/FamilyPicPortal.Web.csproj" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
