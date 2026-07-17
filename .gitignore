@@ -1,5 +1,11 @@
-/src/FamilyPicPortal.Core/bin/Debug/net10.0/
-/src/FamilyPicPortal.Core/obj/
-/src/FamilyPicPortal.Web/bin/Debug/net10.0/
-/src/FamilyPicPortal.Web/obj/
-/.idea/.idea.FamilyPicPortal/.idea/
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# IDE
+.vs/
+.idea/
+*.user
+
+# Local-only files
+*.local.json
