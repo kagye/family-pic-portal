@@ -28,7 +28,7 @@ dotnet build
 dotnet run --project src/FamilyPicPortal.Web
 ```
 
-Then open the URL printed in the console (e.g. `https://localhost:5001`).
+Then open the URL printed in the console (`http://localhost:5143` by default, or `https://localhost:7197` with `--launch-profile https`).
 
 ## Development notes
 
